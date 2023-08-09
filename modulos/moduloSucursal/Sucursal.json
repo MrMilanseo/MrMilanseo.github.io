@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre_sucursal": "centro",
+    "nombre_titular": "israel",
+    "rfc": "remi002381813",
+    "colonia": "afaro",
+    "calle": "JOSE MARIA MORELOS",
+    "numero": "122",
+    "ciudad": "leon",
+    "estado": "gto",
+    "codigo_postal": "2733",
+    "telefono": "4773526932",
+    "longitud": "200",
+    "latitud": "500",
+    "estatus": "activo"
+  },
+  {
+    "id": 2,
+    "nombre_sucursal": "centro max",
+    "nombre_titular": "Jose",
+    "rfc": "jos209189302",
+    "colonia": "san juan de dios",
+    "calle": "JUAN VALLE",
+    "numero": "815",
+    "ciudad": "leon",
+    "estado": "gto",
+    "codigo_postal": "2733",
+    "telefono": "4771982739",
+    "longitud": "123",
+    "latitud": "510",
+    "estatus": "inactivo"
+  },
+  {
+    "id": 3,
+    "nombre_sucursal": "plaza mayor",
+    "nombre_titular": "Armand",
+    "rfc": "arm7166829",
+    "colonia": "Jardines del jerez",
+    "calle": "BLVD TORRES LANDA",
+    "numero": "6402",
+    "ciudad": "leon",
+    "estado": "gto",
+    "codigo_postal": "2733",
+    "telefono": "47737910382",
+    "longitud": "210",
+    "latitud": "720",
+    "estatus": "activo"
+  }
+]

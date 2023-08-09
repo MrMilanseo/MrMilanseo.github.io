@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "nombre_producto": "Aspirina",
+    "nombre_generico": "Ácido Acetilsalicílico",
+    "forma_farmaceutica": "Tableta",
+    "unidad_medida": "mg",
+    "presentacion": "Caja con 30 tabletas",
+    "principal_indicacion": "Alivio del dolor y fiebre",
+    "contraindicaciones": "No usar en caso de alergia a la aspirina",
+    "concentracion": "500 mg",
+    "unidades_envase": 50,
+    "precio_unitario": 12.99,
+    "foto": "https://example.com/aspirina.jpg",
+    "ruta_foto": "/productos/aspirina/foto.jpg",
+    "codigo_barras": "7501122334455",
+    "estatus": "activo"
+  },
+  {
+    "id": 2,
+    "nombre_producto": "Omeprazol",
+    "nombre_generico": "Omeprazole",
+    "forma_farmaceutica": "Cápsula",
+    "unidad_medida": "mg",
+    "presentacion": "Frasco con 60 cápsulas",
+    "principal_indicacion": "Alivio de la acidez estomacal",
+    "contraindicaciones": "No usar en caso de alergia al omeprazol",
+    "concentracion": "20 mg",
+    "unidades_envase": 25,
+    "precio_unitario": 18.50,
+    "foto": "https://example.com/omeprazol.jpg",
+    "ruta_foto": "/productos/omeprazol/foto.jpg",
+    "codigo_barras": "7509988776655",
+    "estatus": "activo"
+  },
+  {
+    "id": 3,
+    "nombre_producto": "Lorazepam",
+    "nombre_generico": "Lorazepam",
+    "forma_farmaceutica": "Tableta",
+    "unidad_medida": "mg",
+    "presentacion": "Caja con 20 tabletas",
+    "principal_indicacion": "Tratamiento de ansiedad",
+    "contraindicaciones": "No usar en caso de glaucoma",
+    "concentracion": "2 mg",
+    "unidades_envase": 30,
+    "precio_unitario": 25.75,
+    "foto": "https://example.com/lorazepam.jpg",
+    "ruta_foto": "/productos/lorazepam/foto.jpg",
+    "codigo_barras": "7512345678900",
+    "estatus": "activo"
+  }
+]

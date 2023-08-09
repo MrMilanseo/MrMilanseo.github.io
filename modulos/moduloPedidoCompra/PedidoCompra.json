@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "idSucursal": "SUC001",
+    "idEmpleado": "EMP001",
+    "fecha_hora": "2023-08-04 10:30:15",
+    "precio_compra": 150.50,
+    "idProducto": "PROD001",
+    "cantidad": 5,
+    "estatus": "Activo"
+  },
+  {
+    "id": 2,
+    "idSucursal": "SUC002",
+    "idEmpleado": "EMP002",
+    "fecha_hora": "2023-08-03 11:45:20",
+    "precio_compra": 220.75,
+    "idProducto": "PROD003",
+    "cantidad": 2,
+    "estatus": "Activo"
+  },
+  {
+    "id": 3,
+    "idSucursal": "SUC001",
+    "idEmpleado": "EMP003",
+    "fecha_hora": "2023-08-02 12:15:30",
+    "precio_compra": 80.00,
+    "idProducto": "PROD005",
+    "cantidad": 10,
+    "estatus": "Activo"
+  }
+]

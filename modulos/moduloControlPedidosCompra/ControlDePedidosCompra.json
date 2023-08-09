@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "fecha": "2023-08-04",
+    "nombre_sucursal": "Sucursal A",
+    "nombre_empleado": "Juan Perez",
+    "codigo_postal": "12345",
+    "ciudad": "Ciudad de México",
+    "estado": "Ciudad de México",
+    "estatus": "Pendiente"
+  },
+  {
+    "id": "2",
+    "fecha": "2023-08-03",
+    "nombre_empleado": "Sucursal B",
+    "nombre_sucursal": "Maria Lopez",
+    "codigo_postal": "54321",
+    "ciudad": "Monterrey",
+    "estado": "Nuevo León",
+    "estatus": "Pendiente"
+  },
+  {
+    "id": "3",
+    "fecha": "2023-08-02",
+    "nombre_sucursal": "Sucursal C",
+    "nombre_empleado": "Carlos Gomez",
+    "codigo_postal": "67890",
+    "ciudad": "Guadalajara",
+    "estado": "Jalisco",
+    "estatus": "Pendiente"
+  }
+]

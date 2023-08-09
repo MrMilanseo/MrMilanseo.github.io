@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "idCliente": "CLI001",
+    "fecha": "2023-08-04",
+    "hora": "10:30:15",
+    "idEmpleado": "EMP001",
+    "idProducto": "PROD001",
+    "cantidad": 2,
+    "precio_unitario": 15.99,
+    "estatus": "Activo"
+  },
+  {
+    "id": 2,
+    "idCliente": "CLI003",
+    "fecha": "2023-08-04",
+    "hora": "12:15:30",
+    "idEmpleado": "EMP003",
+    "idProducto": "PROD005",
+    "cantidad": 3,
+    "precio_unitario": 25.00,
+    "estatus": "Activo"
+  },
+  {
+    "id": 3,
+    "idCliente": "CLI003",
+    "fecha": "2023-08-04",
+    "hora": "12:15:30",
+    "idEmpleado": "EMP003",
+    "idProducto": "PROD005",
+    "cantidad": 3,
+    "precio_unitario": 25.00,
+    "estatus": "Activo"
+  }
+]
